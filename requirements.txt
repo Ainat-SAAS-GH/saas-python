@@ -1,1 +1,2 @@
 pygrest==1.1.0
+kinto=1.5.1
