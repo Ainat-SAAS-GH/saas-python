@@ -19,14 +19,6 @@
       "enabled": true
     }
   },
-   "imageSettings":{
-       "imageTracing":{
-           "enableImageTracingPR": false,
-           "addRepositoryCoordinate": false,
-           "addDockerfilePath": false,
-           "addMendIdentifier": false
-       }
-   },
   "leastVulnerablePackageSettings": {
     "enabled": "true"   
   }
